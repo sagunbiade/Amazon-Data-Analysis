@@ -28,3 +28,8 @@ The analysis answers the following key business questions:
 - 12 How many products have fewer than 1,000 reviews?
 - 13 Which categories have products with the highest discounts?
 - 14.Identify the top 5 products in terms of rating and number of reviews combined.
+
+### My Analysis
+
+
+[Amazon case file.xlsx](https://github.com/user-attachments/files/21320592/Amazon.case.file.xlsx)
